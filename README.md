@@ -2,6 +2,14 @@
 
 > A modern, free, cross-platform Spotify client that runs on **any Phone and Laptop completely free**, featuring real-time music streaming, audio visualizers, playlist management, and offline support. Includes an installable **Android APK** and full **PWA** support.
 
+[![Live Web App](https://img.shields.io/badge/Live_App-Open_in_Browser-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github4wsourav.github.io/spotify-open/)
+[![Download APK](https://img.shields.io/badge/Download_APK-v1.0.0-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/github4Wsourav/spotify-open/releases/download/v1.0.0/Spotify-Open.apk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+### 🔗 Quick Links
+* 🌐 **Live Web App (Runs on Laptop & Phone)**: [https://github4wsourav.github.io/spotify-open/](https://github4wsourav.github.io/spotify-open/)
+* 📦 **Download Android APK**: [Spotify-Open.apk (v1.0.0)](https://github.com/github4Wsourav/spotify-open/releases/download/v1.0.0/Spotify-Open.apk)
+
 ---
 
 ## 📑 Table of Contents
